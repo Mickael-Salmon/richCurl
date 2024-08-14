@@ -29,6 +29,7 @@ Ce script Python te permet d'exécuter des commandes `curl` courantes à travers
 ### Prérequis
 - Python 3.x
 - `pip` pour installer les dépendances
+- curl
 
 ### Étapes d'installation
 
