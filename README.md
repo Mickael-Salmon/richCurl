@@ -1,6 +1,6 @@
 # 🔥 cURL Command Line Interface (CLI) with Rich
 <p align="center">
-  <img src="./banner.webp" alt="cURL CLI" width="200"/>
+  <img src="./banner.webp" alt="cURL CLI" width="600"/>
 </p>
 Bienvenue dans le projet <strong>richCurl</strong>  ! 🚀
 
