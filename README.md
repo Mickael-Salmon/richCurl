@@ -2,7 +2,9 @@
 <p align="center">
   <img src="./banner.webp" alt="cURL CLI" width="200"/>
 </p>
-Bienvenue dans le projet **cURL CLI** ! 🚀 Ce script Python te permet d'exécuter des commandes `curl` courantes à travers une interface en ligne de commande interactive et colorée, propulsée par la bibliothèque **Rich**.
+Bienvenue dans le projet <strong>richCurl</strong>  ! 🚀
+
+Ce script Python te permet d'exécuter des commandes `curl` courantes à travers une interface en ligne de commande interactive et colorée, propulsée par la bibliothèque <strong>Rich</strong> .
 
 ## 📋 Sommaire
 - [🚀 Fonctionnalités](#-fonctionnalités)
